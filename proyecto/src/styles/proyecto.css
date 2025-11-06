@@ -1,13 +1,15 @@
 nav {
    font-size: 15px;
    text-align: center;
-   ba
+  
     }
-a {text-decoration: none;
+a {
+  text-decoration: none;
 
   }
 
-a:link {color:black;
+a:link {
+        color:black;
 
        }
 
@@ -16,7 +18,7 @@ footer { bottom: 0px;
          text-emphasis-color: aliceblue;
          background-color: gray;
        }
-main   {
+body{
         background-color: gray;
 }
 button {
